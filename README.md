@@ -3,14 +3,16 @@ This repository compiles reviewed, annotated, and documented code examples from 
 
 The references I have used so far are as follows:
 
-Statistical Methods for Data Analysis in Particle Physics, Luca Lista
+- Statistical Methods for Data Analysis in Particle Physics, Luca Lista
 
-https://people.na.infn.it/~lista/Statistics/
+- https://github.com/iml-wg/HEPML-LivingReview
+  
+- https://people.na.infn.it/~lista/Statistics/
 
- https://github.com/lucalista/analisi-dati-2021
+- https://github.com/lucalista/analisi-dati-2021
 
-https://clairedavid.github.io/intro_to_ml/about/learningoutcomes.html
+- https://clairedavid.github.io/intro_to_ml/about/learningoutcomes.html
 
-https://lewtun.github.io/dl4phys/intro.html
+- https://lewtun.github.io/dl4phys/intro.html
 
-https://lewtun.github.io/hepml/
+- https://lewtun.github.io/hepml/
